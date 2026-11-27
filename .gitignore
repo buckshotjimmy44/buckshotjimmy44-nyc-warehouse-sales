@@ -1,0 +1,8 @@
+# Raw DOF downloads / PDFs (large, and re-downloadable)
+data/
+# Run log
+output/run_log.txt
+output_sample/
+__pycache__/
+.pytest_cache/
+.venv/
